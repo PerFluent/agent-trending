@@ -3,7 +3,7 @@
 Agent Trending 是一个面向 AI Agent 领域的大规模论文研究与趋势分析开源项目。
 
 - **数据规模：** 借助 Codex 对 2025.01—2026.03 期间 **8701 篇** AI Agent 学术论文进行系统化采集、去重、分类与结构化标注，构建了目前该领域覆盖最完整的开源论文数据集之一。相关月度整理见 [monthly-reports/](./monthly-reports/)。
-- **研究框架：** 围绕 **15 个核心方向**建立分类体系，涵盖应用系统、安全与对齐、架构与框架、评测基准、多 Agent 协作、多 Agent 强化学习、学习与自进化、仿真与社会模拟、人机协作、记忆与知识管理、规划与推理、具身智能、工具使用与环境交互、可解释性与透明度、低代码 / 无代码平台。对应方向论文集见 [topic-papers/](./topic-papers/)。
+- **研究框架：** 围绕 **15 个核心方向**建立分类体系，涵盖 [应用系统](./topic-papers/1.%20基于Agent的应用系统.md)、[安全与对齐](./topic-papers/2.%20Agent安全与对齐.md)、[架构与框架](./topic-papers/3.%20Agent架构与框架设计.md)、[评测基准](./topic-papers/4.%20Agent评测与基准.md)、[多 Agent 协作](./topic-papers/5.%20多Agent协作与通信.md)、[多 Agent 强化学习](./topic-papers/6.%20多Agent强化学习.md)、[学习与自进化](./topic-papers/7.%20Agent学习与自进化.md)、[仿真与社会模拟](./topic-papers/8.%20Agent仿真与社会模拟.md)、[人机协作](./topic-papers/9.%20人机协作Agent.md)、[记忆与知识管理](./topic-papers/10.%20Agent记忆与知识管理.md)、[规划与推理](./topic-papers/11.%20Agent规划与推理.md)、[具身智能](./topic-papers/12.%20具身智能Agent.md)、[工具使用与环境交互](./topic-papers/13.%20Agent工具使用与环境交互.md)、[可解释性与透明度](./topic-papers/14.%20Agent可解释性与透明度.md)、[低代码 / 无代码平台](./topic-papers/15.%20低代码_无代码Agent平台.md)。
 - **趋势分析：** 对每个方向完成技术演进脉络梳理、代表性论文提炼与最佳实践总结，输出 **15 份细分方向技术趋势报告**，识别出强化学习驱动的能力获取、分层闭环架构收敛、Agent 通信协议生态爆发、安全性系统升级等跨领域共振信号。对应报告见 [topic-reports/](./topic-reports/)。
 - **研判结论：** 基于 15 份子报告完成跨方向交叉分析，产出 **1 份 [AI Agent 全局技术趋势深度总报告](./deep-report.md)**，覆盖技术栈分层、路线之争、商业化路径、共性瓶颈与预测；同时形成 **1 份 [下一代 Agent 原型设计文档](./next-gen-agent-vision.md)**，提出三进程分离架构、分级自主决策、结构化记忆管理等可工程化方案。
 
